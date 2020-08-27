@@ -1,0 +1,28 @@
+{
+  "name": "tes-magnakarsa",
+  "version": "1.0.0",
+  "description": "NAMA : PUTU REKSA WINDA PERDANA UMUR : 31 Th NO.Tlp : 087852231817",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reksawindas/tes-magnakarsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reksawindas/tes-magnakarsa/issues"
+  },
+  "homepage": "https://github.com/reksawindas/tes-magnakarsa#readme"
+}
